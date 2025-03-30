@@ -1,1 +1,2 @@
-# Let-s-play-Gomoku-game
+# Let's play Gomoku game 🎲😎
+Hello !
